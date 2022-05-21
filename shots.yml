@@ -1,3 +1,12 @@
+- url: https://coinmarketcap.com/
+  output: shot/coinmarketcap.png
+
 - url: https://www.coingecko.com/
-  output: shot.png
-  
+  output: shot/coingecko.png
+
+- url: https://defillama.com/
+  output: shot/defillama.png
+
+- url: https://defillama.com/chains
+  output: shot/defillama-chains.png
+
